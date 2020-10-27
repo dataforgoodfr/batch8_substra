@@ -9,7 +9,7 @@ L'objectif de ce projet : Améliorer l'outil d'évaluation et de formation Data 
 ## Outil de travail 
 
 - Le référential d'évaluation de la Data Science Responsable et de Confiance est disponible en Open Source sur le [repo dédié](https://github.com/SubstraFoundation/referentiel-evaluation-dsrc)
-- Gestion des tâches et organisation du travail : [projet Basecamp](https://3.basecamp.com/4862987/projects/18881058)
+- Gestion des tâches et organisation du travail : [Trello](https://trello.com/b/PFb5SOOA/data-for-good-to-do-list)
 
 
 ## Contact 
