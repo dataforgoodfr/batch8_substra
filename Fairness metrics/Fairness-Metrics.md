@@ -8,7 +8,7 @@ Etudier les techniques de Fairness metrics et écrire un guide technique, articl
 
 ## Organisation
 
-Basecamp - [To do list](https://3.basecamp.com/4862987/buckets/18881058/todolists/3044274418)
+Trello - [To do list](https://trello.com/b/PFb5SOOA/data-for-good-to-do-list)
 
 ## Ressources
 
