@@ -40,7 +40,7 @@ Toutes les informations nécessaires à l'identification du modèle.
 
 - License 
 
-    - Sous quel license s'applique le modèle (open source, license privée, etc...) ?
+    - Sous quelle license s'applique le modèle (open source, license privée, etc...) ?
 
 - Information de contact et envoyer des feedbacks 
     
@@ -96,7 +96,7 @@ En fonction de la structure et de l'objectif du modèle, des métriques spécifi
 
 - Performance dans la recherche 
 
-    - Dans la rrecherche, quelles sont les performances généralement obte nues pour ce type de problème. 
+    - Dans la recherche, quelles sont les performances généralement obte nues pour ce type de problème. 
 
 - Seuils pertinents 
 
