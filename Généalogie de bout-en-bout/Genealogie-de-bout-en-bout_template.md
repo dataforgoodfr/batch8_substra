@@ -1,4 +1,4 @@
-# GENEALOGIE BOUT EN BOUT: MODELE #
+# GENEALOGIE BOUT EN BOUT: MODELE
 
 ## Objectif de ce document 
 
@@ -11,50 +11,53 @@ C'est un outil efficace pour améliorer la compréhension de ce modèle, de stan
 
 ## Template
 
-
 ### Information sur le modèle
 
-    - Personne/Organisation en charge du développement du modèle 
-    - Date 
-    - Version
-    - Type 
-    - Ressouces pour plus d'information
-    - License
-    - Information de contact 
+- Personne / Organisation en charge du développement du modèle  
+- Personne / Organisation en charge de la validation du modèle     
+- Date de création / modification du modèle / Version
+- Type de modèle
+- Type d'apprentissage
+- Ressouces additionnelles 
+- License
+- Information de contact 
 
 ### Motivations et Objectifs du modèle 
 
-    - Principales/premières
-    - Destinatères principaux
-    - Impacts hors champ 
+- Objectif principal du modèle / cas d'usage premier
+- Destinatères principaux
+- Autres impacts identifiés
+- Limites d'utilisation du modèle 
 
-### Facteurs (démographie, conditions environnementales, attributs techniques ....)
+### Explicabilité 
     
-    - Pertinents 
-    - Evaluation 
+- Explicabilité
+- Fairness 
 
-### Metrics : 
+### Metrics
 
-    - Mesure de performance utilisée 
-    - Seuils pertinents 
-    - Approches de variation
+- Mesures de performance utilisées
+- Performance dans la recherche 
+- Seuils pertinents 
+- Robustesse 
 
-### Evaluation de la donnée (analyse quantitative): 
-    - Datasets utilisés 
-    - Preprocessing 
+### Jeux de données  
 
-(Donnée d'entrainement si applicable)
+- Datasets utilisés 
+- Contrôle qualité 
+- Preprocessing 
+- Séparation des jeux de données 
+- Sécurité et confidentialité des jeux de données
 
-### Autres considétations 
+### Sécurité du modèle et de l'algorithme 
 
-    - Considerations ethique
-    - Mises en garde
-    - Recommandations
-    - Impacts écologiques estimés du modèle 
+- Privacy enhancing technologies 
 
+### Autres considérations 
 
-
-
-Source: 
-    - Model Card for Model Reporting, 2019: https://arxiv.org/pdf/1810.03993.pdf 
+- Considerations ethique
+- Mises en garde
+- Recommandations
+- Impacts écologiques estimés du modèle
+- Impacts sociétaux estimés du modèle 
 
