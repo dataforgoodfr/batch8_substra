@@ -2,8 +2,8 @@
 
 ## Objectif de ce document 
 
-Ce document a pour bojectif d'expliquer ce qui est atendu dans la réalisation d'une généalogie de bout-en-bout. 
-Il a pour objectif de compléter le template de généalogie de bout)e,n-bout
+Ce document a pour ojectif d'expliquer ce qui est attendu dans la réalisation d'une généalogie de bout-en-bout. 
+Il a pour objectif de compléter le template de généalogie de bout-en-bout
 
 ## Guide d'utilisation du template de généalogie
 
@@ -111,7 +111,7 @@ En fonction de la structure et de l'objectif du modèle, des métriques spécifi
 
 Présentation des jeux de données utilisés pour l'apprentissage du modèle et la validation de la performance. 
 
-- Datsets
+- Datasets
 
     - Quels sont les datasets qui ont été choisis ? 
     - Comment ont été collectées les données 
