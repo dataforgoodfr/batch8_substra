@@ -1,48 +1,47 @@
-# GENEALOGIE BOUT EN BOUT: GUIDE
+# GENEALOGIE BOUT EN BOUT : GUIDE
 
-## Objectif de ce document 
+## Objectif de ce document
 
-Ce document a pour bojectif d'expliquer ce qui est atendu dans la réalisation d'une généalogie de bout-en-bout. 
-Il a pour objectif de compléter le template de généalogie de bout)e,n-bout
+Ce document a pour objectif d'expliquer ce qui est attendu dans la réalisation d'une généalogie de bout-en-bout et de compléter le [template](./Genealogie-de-bout-en-bout_template.md).
 
 ## Guide d'utilisation du template de généalogie
 
 ### Information sur le modèle
-   
-Toutes les informations nécessaires à l'identification du modèle. 
 
-- Personne / Organisation en charge du développement du modèle     
+Toutes les informations nécessaires à l'identification du modèle.
+
+- Personne / Organisation en charge du développement du modèle
 
     - L'objectif est d'identifier les personnes physiques et morales qui sont intervenues lors de la création du modèle 
-    - Lorsque la création du modèle repose sur plusieurs parties prenantes, l'ensemble de la chaine de responsabilité doit être décrite 
+    - Lorsque la création du modèle repose sur plusieurs parties prenantes, l'ensemble de la chaîne de responsabilité doit être décrite 
 
-- Personne / Organisation en charge de la validation du modèle     
+- Personne / Organisation en charge de la validation du modèle
 
-    - Quelles sont les personnes moorales / physiques qui ont validé le modèle ? 
-    - Mise en place d'un audit / d'une certification ? 
+    - Quelles sont les personnes morales / physiques qui ont validé le modèle ?
+    - Mise en place d'un audit / d'une certification ?
 
 - Date de création / modification du modèle / Version
 
-    - L'objectif est de fournir l'historique du modèle, les différentes versions et écolutions de celui-ci
+    - L'objectif est de fournir l'historique du modèle, les différentes versions et évolutions de celui-ci
 
 - Type de modèle
     
-    - Préciser le type aide à comprendre les hypothèses et méthodes appliquées à sa construction (classification de Bayes? réseaux de neurones ? ..)
+    - Préciser le type aide à comprendre les hypothèses et méthodes appliquées à sa construction (classification de Bayes ? réseaux de neurones ? etc.)
     - Quel modèle initial a été utilisé ? 
 
 - Type d'apprentissage
 
-    Préciser le typde d'apprentissage réalisé (transfer learning, distributed learning, etc...)
+    Préciser le type d'apprentissage réalisé (transfer learning, distributed learning, etc.)
 
 - Resources pour plus d'information 
     
-    - Toutes les ressources / liens qui peuvent aider à mieux comprendre le modèle et son fonctionnement (papier de recherche, présentation, etc...)
+    - Toutes les ressources / liens qui peuvent aider à mieux comprendre le modèle et son fonctionnement (papier de recherche, présentation, etc.)
 
 - License 
 
-    - Sous quelle license s'applique le modèle (open source, license privée, etc...) ?
+    - Sous quelle license s'applique le modèle (open source, license propriétaire, etc.) ?
 
-- Information de contact et envoyer des feedbacks 
+- Information de contact et possibilité d'envoyer des retours 
     
     - E-mail ou autre d'une personne physique pour contacter si besoin d'avoir un échange à propos du modèle
 
@@ -53,9 +52,9 @@ Toutes les informations nécessaires pour comprendre rapidement le contexte d'ut
 
 - Objectif principal du modèle / cas d'usage premier
 
-    - Description précise du cas d'usage et de l'objectif premier du modèle : quelle est son application  ? A quoi doit il servir ? Qu-estce qu'il prédit et dans quel but ? 
+    - Description précise du cas d'usage et de l'objectif premier du modèle : quelle est son application  ? A quoi doit il servir ? Qu-est ce qu'il prédit et dans quel but ? 
 
-- Destinatères principaux
+- Destinataires principaux
     
     - Quels sont les utilisateurs principaux du modèle ? 
     - Quels sont les "clients finaux" du modèle ? 
@@ -64,7 +63,7 @@ Toutes les informations nécessaires pour comprendre rapidement le contexte d'ut
 - Impacts "Out-of-scope" 
 
     - Autres potentiels utilisations du modèle dans d'autres contextes ? 
-    - Possibilité d'utiliser certaines parties dans d'autres aplications (modèles, datasets, algorithme)
+    - Possibilité d'utiliser certaines parties dans d'autres applications (modèles, datasets, algorithme)
 
 -  Limites d'utilisation du modèle 
 
@@ -96,7 +95,7 @@ En fonction de la structure et de l'objectif du modèle, des métriques spécifi
 
 - Performance dans la recherche 
 
-    - Dans la recherche, quelles sont les performances généralement obte nues pour ce type de problème. 
+    - Dans la recherche, quelles sont les performances généralement obtenues pour ce type de problème. 
 
 - Seuils pertinents 
 
@@ -104,7 +103,7 @@ En fonction de la structure et de l'objectif du modèle, des métriques spécifi
 
 - Robustesse 
 
-    - Qeulles metrics de robustesses ont été mises en place ? 
+    - Quelles metrics de robustesses ont été mises en place ? 
     - Comment les performances sont mesurées dans le temps ? 
 
 ### Jeux de données 
@@ -115,7 +114,7 @@ Présentation des jeux de données utilisés pour l'apprentissage du modèle et 
 
     - Quels sont les datasets qui ont été choisis ? 
     - Comment ont été collectées les données 
-    - Utilisation de données synthètiques ? 
+    - Utilisation de données synthétiques ? 
     - Comment sont traités les données "manquantes" ? 
 
 - Contrôle qualité 
@@ -124,7 +123,7 @@ Présentation des jeux de données utilisés pour l'apprentissage du modèle et 
 
 - Preprocessing 
 
-    - Quel(s) algorithme(s) de préprocessing ont été utiliséss pour préparer les données 
+    - Quel(s) algorithme(s) de préprocessing ont été utilisés pour préparer les données 
 
 - Séparation des jeux de données 
 
@@ -138,7 +137,7 @@ Présentation des jeux de données utilisés pour l'apprentissage du modèle et 
 
 ### Sécurité du modèle et des algorithmes
 
-Présentation des différentes techniques pour protéger le modèle et les algorithmes. 
+Présentation des différentes techniques utilisées afin de protéger le modèle et les algorithmes. 
 
 - Privacy enhancing technologies 
 
@@ -146,11 +145,11 @@ Présentation des différentes techniques pour protéger le modèle et les algor
 
 ### Autres considérations 
 
-Autres informations pertientes reliée au modèle. 
+Autres informations pertinentes reliée au modèle. 
   
-- Considerations ethique
+- Considerations éthiques
 
-    - Est-ce que les considérations éthique ont été identifiés /  étudiées, ainsi les défis qui en découlent ?
+    - Est-ce que les considérations éthiques ont été identifiés /  étudiées, ainsi les défis qui en découlent ?
 
 - Recommandations et Mises en garde
 
@@ -161,7 +160,7 @@ Autres informations pertientes reliée au modèle.
     - Est-ce que les impacts sociétaux du modèle ont été étudiés ? 
     - Quelles mesures ont été mises en place ? 
 
-- Impacts sociétaux estimés du modèle 
+- Impacts environnementaux estimés du modèle 
 
-    - Est-ce que les impacts environnementaux du modèle (de son apprentissage a sa mise en production) ont été étudiés ? 
+    - Est-ce que les impacts environnementaux du modèle (de son apprentissage à sa mise en production) ont été étudiés ? 
     - Quelles mesures ont été mises en place ? 
